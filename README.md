@@ -1,4 +1,4 @@
-This is code used for the sequencing data processing, statistsical analyses and visualization of data of the manuscript with the title "Microbial latitudinal diversity gradients and lineage-selective exchange between the Atlantic surface ocean and the lower atmosphere" by Hrabe de Angelis et al.
+This is code used for the sequencing data processing, statistsical analyses and visualization of data of the manuscript with the title "Latitudinal diversity gradients and selective microbial exchange at the Atlantic ocean-air interface" by Hrabe de Angelis et al.
 
 1. 1_dada2_eugen.R - Workflow based on https://benjjneb.github.io/dada2/ and customized for the dataset, including filtering parameters
 2. 2_VisuaR_eugen.R and 2_VisuaR_UserInput.R - Main analyses were performed using https://github.com/EmilRuff/VisuaR (VisuaR.R). Version used for this analysis VisuaR_eugen.R (Fig. 1A-D, 2A-D, 4A,C,F,H, Fig. S2, S3, S9B,C)
